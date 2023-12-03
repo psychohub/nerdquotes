@@ -9,6 +9,9 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Alberto Casero*
 
 -------
+> I'm not a party person. I'm a nerd. I'm not an extrovert in that way at all. The things I enjoy doing could be boring to somebody else.
+*Andie MacDowell*
+-------
 
 > "Los recortes son de los mejores inventos."
 
